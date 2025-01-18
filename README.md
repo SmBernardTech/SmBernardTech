@@ -1,16 +1,22 @@
-## Hi there 👋
+# Susan M Bernard
+## ![Alt](/assets/image/logo/heroLogo.svg "SmB")
+## Full Stack Web Developer
+### I am a highly organized and professional full-stack developer, with an eye towards UI/UX, accessibility, and design.
+### I have a unique background that combines health, education, psychology, and development, which brings a strong understanding of human behavior <br>and interaction to every project.
+### My background and skills merge artistic creativity with technical execution, in order to bring innovative and inspired solutions to your team or project.
+                
+* UI/UX Design
+* Web Design & Development
+* Software Development
+* Android App Development
+* UML & Project Development
 
-<!--
-**SmBernardTech/SmBernardTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open to remote job opportunities
+### [Contact](http://smbernard.tech/#contact) 
 
-Here are some ideas to get you started:
+~~~~
+ 1 (470) 429-8556
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Greater Atlanta Area, GA, USA
+~~~~
+ 
