@@ -1,5 +1,5 @@
 # Susan M Bernard
-## ![Alt](/assets/image/logo/heroLogo.svg "SmB")
+## ![Alt](/heroLogo.svg "SmB")
 ## Full Stack Web Developer
 ### I am a highly organized and professional full-stack developer, with an eye towards UI/UX, accessibility, and design.
 ### I have a unique background that combines health, education, psychology, and development, which brings a strong understanding of human behavior <br>and interaction to every project.
