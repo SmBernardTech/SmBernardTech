@@ -2,7 +2,7 @@
 ## ![Alt](/heroLogo.svg "SmB")
 ## Full Stack Web Developer
 ### I am a highly organized and professional full-stack developer, with an eye towards UI/UX, accessibility, and design.
-### I have a unique background that combines health, education, psychology, and development, which brings a strong understanding of human behavior <br>and interaction to every project.
+### I have a unique background that combines health, education, psychology, and development, which brings a strong understanding of human behavior and interaction to every project.
 ### My background and skills merge artistic creativity with technical execution, in order to bring innovative and inspired solutions to your team or project.
                 
 * UI/UX Design
