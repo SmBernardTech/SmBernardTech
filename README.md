@@ -15,7 +15,7 @@
 ### [Contact](http://smbernard.tech/#contact) 
 
 ~~~~
- 1 (470) 429-8556
+ 1 (470) 576-3189
 
  Greater Atlanta Area, GA, USA
 ~~~~
