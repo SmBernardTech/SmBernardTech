@@ -20,7 +20,7 @@
 
 ~~~~
  1 (470) 576-3189
-
+ smb@smbernard.tech
  Greater Atlanta Area, GA, USA
 ~~~~
  
