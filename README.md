@@ -20,7 +20,7 @@
 ### [Contact](https://smbernard.tech/#contact)
 
 <pre>
-<a href="tel:+14705763189">470.576.3189</a>
+470.576.3189
 <a href="mailto:smb@smbernard.tech">smb@smbernard.tech</a>
 Greater Atlanta Area, GA, USA
 </pre>
